@@ -112,6 +112,7 @@ public class Main {
         int three=3;
         if (one<two || two<three) {
             System.out.println("Большее из чисел " + three);
+
         }
     }
 }
